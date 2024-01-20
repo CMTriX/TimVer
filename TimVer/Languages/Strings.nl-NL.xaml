@@ -15,7 +15,7 @@
 
         Translation contributed by: TiM
 
-        Date last update: 2023-11-07
+        Date last update: 2024-01-20
 
         ======================================================================
 
@@ -304,6 +304,26 @@
 
     <!-- Begin changes on 2023/12/20 @ 19:40 UTC-->
     <!-- U | GraphicsInfo_AdapterRAM (corrected spelling)  -->
-    <!-- End changes on 2023/12/20 @ 19:40 UTC-->
+    <!-- End changes on 2024/01/20 @ 11:40 UTC-->
+
+
+<!-- Begin changes on 2023/12/20 @ 19:40 UTC-->
+<sys:String x:Key="About_Contribute">Help bij het vertalen</sys:String>
+<sys:String x:Key="About_ContributeToolTip">Hoe kun je een vertalingen aanleveren</sys:String>
+<sys:String x:Key="Button_Close">Menu sluiten</sys:String>
+<sys:String x:Key="Button_OpenAppFolder">Open programma map</sys:String>
+<sys:String x:Key="DriveInfo_BootDrive">Opstartschijf</sys:String>
+<sys:String x:Key="DriveInfo_DeviceID">Apparaat ID</sys:String>
+<sys:String x:Key="DriveInfo_PartitionStyle">Partitie stijl</sys:String>
+<sys:String x:Key="HardwareInfo_ProcessorDescription">Processor informatie</sys:String>
+<sys:String x:Key="HardwareInfo_Uptime">Uptime</sys:String>
+<sys:String x:Key="HardwareInfo_UptimeString">{0} dagen, {1} uren, {2} minuten {3} seconden</sys:String>
+<sys:String x:Key="MsgText_CopiedToClipboardItem">Item gekopieerd naar het klembord</sys:String>
+<sys:String x:Key="SettingsItem_EnableLanguageTesting">Testen taalbestand ingeschakeld</sys:String>
+<sys:String x:Key="SettingsItem_ShowBootDriveColumn">Toon opstartschijf kolom</sys:String>
+<sys:String x:Key="SettingsItem_ShowPartitionStyleColumn">Toon partitie stijl kolom</sys:String>
+<sys:String x:Key="WindowsInfo_DotNetVersion">.NET versie</sys:String>
+<!-- End changes on 2024/01/20 @ 11:40 UTC-->
+
 
 </ResourceDictionary>

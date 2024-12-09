@@ -15,7 +15,7 @@
 
         Translation contributed by: TiM
 
-        Date last update: 2023-11-07
+        Date last update: 2024-12-09
 
         ======================================================================
 
@@ -24,7 +24,7 @@
     <!--  About Page  -->
     <sys:String x:Key="About_BuildDate">Build datum</sys:String>
     <sys:String x:Key="About_CommitID">Project ID</sys:String>
-    <sys:String x:Key="About_CommitIDToolTip">Volledit project ID:</sys:String>
+    <sys:String x:Key="About_CommitIDToolTip">Volledig project ID:</sys:String>
     <sys:String x:Key="About_Contribute">Bijdrage</sys:String>
     <sys:String x:Key="About_ContributeToolTip">Hoe kan ik een vertaling bijdragen?</sys:String>
     <sys:String x:Key="About_Copyright">Copyright</sys:String>
@@ -91,8 +91,8 @@
     <sys:String x:Key="DriveInfo_Free">Beschikbaar</sys:String>
     <sys:String x:Key="DriveInfo_FreePercent">% beschikbaar</sys:String>
     <sys:String x:Key="DriveInfo_Health">Health</sys:String>
-    <sys:String x:Key="DriveInfo_Health_Healthy">Healthy</sys:String>
-    <sys:String x:Key="DriveInfo_Health_Unhealthy">Unhealthy</sys:String>
+    <sys:String x:Key="DriveInfo_Health_Healthy">Gezond</sys:String>
+    <sys:String x:Key="DriveInfo_Health_Unhealthy">Ongezond</sys:String>
     <sys:String x:Key="DriveInfo_Health_Unknown">Onekend</sys:String>
     <sys:String x:Key="DriveInfo_Health_Warning">Waarschuwing</sys:String>
     <sys:String x:Key="DriveInfo_IOError">I/O fout</sys:String>
@@ -205,7 +205,7 @@
     <sys:String x:Key="NavItem_HardwareInfo">Hardware informatie</sys:String>
     <sys:String x:Key="NavItem_Settings">Instellingen</sys:String>
     <sys:String x:Key="NavItem_WindowsInfo">Windows informatie</sys:String>
-    <sys:String x:Key="NavTitle_About">OVer TimVer</sys:String>
+    <sys:String x:Key="NavTitle_About">Over TimVer</sys:String>
     <sys:String x:Key="NavTitle_BuildHistory">Build geschiedenis</sys:String>
     <sys:String x:Key="NavTitle_DriveInfo">HD informatie</sys:String>
     <sys:String x:Key="NavTitle_Environment">Omgevings variabelen</sys:String>
@@ -336,5 +336,38 @@
     <!-- Begin changes on 2023/12/20 @ 19:40 UTC-->
     <!-- U | GraphicsInfo_AdapterRAM (corrected spelling)  -->
     <!-- End changes on 2023/12/20 @ 19:40 UTC-->
+
+<sys:String x:Key="DriveInfo_BootDrive">Opstartschijf</sys:String>
+<sys:String x:Key="DriveInfo_DeviceID">Apparaat ID</sys:String>
+<sys:String x:Key="DriveInfo_DriveLetters">Stationletters</sys:String>
+<sys:String x:Key="DriveInfo_FriendlyName">Stationsnaam</sys:String>
+<sys:String x:Key="DriveInfo_PartitionStyle">Partitie opmaak</sys:String>
+<sys:String x:Key="DriveInfo_SerialNumber">Serienummer</sys:String>
+<sys:String x:Key="DriveInfo_SystemDrive">Systeemschijf</sys:String>
+<sys:String x:Key="GraphicsInfo_NumberOfDisplays">Aantal monitoren</sys:String>
+<sys:String x:Key="HardwareInfo_BIOS">BIOS</sys:String>
+<sys:String x:Key="HardwareInfo_BiosMode">Biosmode</sys:String>
+<sys:String x:Key="HardwareInfo_LastBootNormal">Normale opstart</sys:String>
+<sys:String x:Key="HardwareInfo_LastBootSafe">Veilige modus</sys:String>
+<sys:String x:Key="HardwareInfo_LastBootSafeNetwork">Veilige modus met netwerk</sys:String>
+<sys:String x:Key="HardwareInfo_LastBootType">Laatste reboot type</sys:String>
+<sys:String x:Key="HardwareInfo_ProcessorDescription">Processor omschrijving</sys:String>
+<sys:String x:Key="HardwareInfo_SecureBoot">Veilieg opstart</sys:String>
+<sys:String x:Key="HardwareInfo_SecureBoot_Disabled">Uitgeschakeld</sys:String>
+<sys:String x:Key="HardwareInfo_SecureBoot_Enabled">Ingeschakeld</sys:String>
+<sys:String x:Key="HardwareInfo_UEFI">UEFI</sys:String>
+<sys:String x:Key="HardwareInfo_Uptime">Uptime</sys:String>
+<sys:String x:Key="HardwareInfo_UptimeString">{0} dag, {1} uren, {2} minuten, {3} seconden</sys:String>
+<sys:String x:Key="MsgText_CopiedToClipboardItem">Item gekopieerd naar klembord</sys:String>
+<sys:String x:Key="MsgText_ErrorGeneral">Er is een fout opgetreden</sys:String>
+<sys:String x:Key="MsgText_OptionReset">Optie is hersteld</sys:String>
+<sys:String x:Key="SettingsItem_ShowBootDriveColumn">Toon opstartschijf kolom</sys:String>
+<sys:String x:Key="SettingsItem_ShowDriveLettersColumn">Toon stationletters</sys:String>
+<sys:String x:Key="SettingsItem_ShowFriendlyName">Toon stationsnaam kolom</sys:String>
+<sys:String x:Key="SettingsItem_ShowPartitionStyleColumn">Toon partitie opmaak kolom</sys:String>
+<sys:String x:Key="SettingsItem_ShowSerialNumber">Toon serinummer kolom</sys:String>
+<sys:String x:Key="SettingsItem_ShowVideoSelector">Toon videoadapterselector op de grafische (video) pagina</sys:String>
+<sys:String x:Key="WindowsInfo_DotNetVersion">.NET versie</sys:String>
+
 
 </ResourceDictionary>

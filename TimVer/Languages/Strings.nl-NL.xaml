@@ -24,7 +24,7 @@
     <!--  About Page  -->
     <sys:String x:Key="About_BuildDate">Build datum</sys:String>
     <sys:String x:Key="About_CommitID">Project ID</sys:String>
-    <sys:String x:Key="About_CommitIDToolTip">Volledit project ID:</sys:String>
+    <sys:String x:Key="About_CommitIDToolTip">Volledig project ID:</sys:String>
     <sys:String x:Key="About_Contribute">Bijdrage</sys:String>
     <sys:String x:Key="About_ContributeToolTip">Hoe kan ik een vertaling bijdragen?</sys:String>
     <sys:String x:Key="About_Copyright">Copyright</sys:String>
@@ -205,7 +205,7 @@
     <sys:String x:Key="NavItem_HardwareInfo">Hardware informatie</sys:String>
     <sys:String x:Key="NavItem_Settings">Instellingen</sys:String>
     <sys:String x:Key="NavItem_WindowsInfo">Windows informatie</sys:String>
-    <sys:String x:Key="NavTitle_About">OVer TimVer</sys:String>
+    <sys:String x:Key="NavTitle_About">Over TimVer</sys:String>
     <sys:String x:Key="NavTitle_BuildHistory">Build geschiedenis</sys:String>
     <sys:String x:Key="NavTitle_DriveInfo">HD informatie</sys:String>
     <sys:String x:Key="NavTitle_Environment">Omgevings variabelen</sys:String>
